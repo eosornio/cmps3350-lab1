@@ -1,1 +1,2 @@
-change from new_branch
+this is my first time using git and i don't know anything about it
+Change from new_branch
